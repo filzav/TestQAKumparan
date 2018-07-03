@@ -1,0 +1,5 @@
+Terdapat 3 test case yang digunakan adalah:
+
+1. Memilih berita trending stories nomor 1, menulis komentar dan post, kemudian login dengan Google Plus, terakhir menulis kembali komentar dan post komentar tersebut
+2. Memilih berita trending stories nomor 1, menulis komentar dan post, kemudian login dengan Facebook, terakhir menulis kembali komentar dan post komentar tersebut
+3. Memilih berita trending stories nomor 1, menulis komentar dan post, kemudian login dengan Google Plus namun salah memasukkan alamat email
